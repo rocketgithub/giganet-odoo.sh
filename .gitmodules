@@ -12,3 +12,8 @@
 	path = importaciones
 	url = git@github.com:rocketgithub/importaciones.git
 	branch = 10.0
+
+[submodule "conciliacion_bancaria"]
+	path = conciliacion_bancaria
+	url = git@github.com:rocketgithub/conciliacion_bancaria.git
+	branch = 11.0
