@@ -17,3 +17,6 @@
 	path = conciliacion_bancaria
 	url = git@github.com:rocketgithub/conciliacion_bancaria.git
 	branch = 11.0
+[submodule "giganet"]
+	path = giganet
+	url = git@github.com:rocketgithub/giganet.git
