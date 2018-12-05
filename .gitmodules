@@ -20,3 +20,7 @@
 [submodule "giganet"]
 	path = giganet
 	url = git@github.com:rocketgithub/giganet.git
+[submodule "asistelibros"]
+	path = asistelibros
+	url = https://github.com/rocketgithub/asistelibros.git
+	branch = 11.0
