@@ -24,3 +24,6 @@
 	path = asistelibros
 	url = https://github.com/rocketgithub/asistelibros.git
 	branch = 11.0
+[submodule "sesionventas"]
+	path = sesionventas
+	url = https://github.com/rocketgithub/sesionventas.git
